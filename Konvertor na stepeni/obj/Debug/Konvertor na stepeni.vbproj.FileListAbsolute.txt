@@ -1,0 +1,12 @@
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Konvertor na stepeni\bin\Debug\Konvertor na stepeni.exe.config
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Konvertor na stepeni\bin\Debug\Konvertor na stepeni.exe
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Konvertor na stepeni\bin\Debug\Konvertor na stepeni.pdb
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Konvertor na stepeni\bin\Debug\Konvertor na stepeni.xml
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Konvertor na stepeni\obj\Debug\Konvertor na stepeni.vbproj.AssemblyReference.cache
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Konvertor na stepeni\obj\Debug\Konvertor_na_stepeni.Form1.resources
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Konvertor na stepeni\obj\Debug\Konvertor_na_stepeni.Resources.resources
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Konvertor na stepeni\obj\Debug\Konvertor na stepeni.vbproj.GenerateResource.cache
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Konvertor na stepeni\obj\Debug\Konvertor na stepeni.vbproj.CoreCompileInputs.cache
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Konvertor na stepeni\obj\Debug\Konvertor na stepeni.exe
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Konvertor na stepeni\obj\Debug\Konvertor na stepeni.xml
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Konvertor na stepeni\obj\Debug\Konvertor na stepeni.pdb
