@@ -1,0 +1,12 @@
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Pogodi go brojot\bin\Debug\Pogodi go brojot.exe.config
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Pogodi go brojot\bin\Debug\Pogodi go brojot.exe
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Pogodi go brojot\bin\Debug\Pogodi go brojot.pdb
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Pogodi go brojot\bin\Debug\Pogodi go brojot.xml
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Pogodi go brojot\obj\Debug\Pogodi go brojot.vbproj.AssemblyReference.cache
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Pogodi go brojot\obj\Debug\Pogodi_go_brojot.Form1.resources
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Pogodi go brojot\obj\Debug\Pogodi_go_brojot.Resources.resources
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Pogodi go brojot\obj\Debug\Pogodi go brojot.vbproj.GenerateResource.cache
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Pogodi go brojot\obj\Debug\Pogodi go brojot.vbproj.CoreCompileInputs.cache
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Pogodi go brojot\obj\Debug\Pogodi go brojot.exe
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Pogodi go brojot\obj\Debug\Pogodi go brojot.xml
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Pogodi go brojot\obj\Debug\Pogodi go brojot.pdb
