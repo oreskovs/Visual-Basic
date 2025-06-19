@@ -1,0 +1,12 @@
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Zadaca Vizuelno\bin\Debug\Zadaca Vizuelno.exe.config
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Zadaca Vizuelno\bin\Debug\Zadaca Vizuelno.exe
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Zadaca Vizuelno\bin\Debug\Zadaca Vizuelno.pdb
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Zadaca Vizuelno\bin\Debug\Zadaca Vizuelno.xml
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Zadaca Vizuelno\obj\Debug\Zadaca Vizuelno.vbproj.AssemblyReference.cache
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Zadaca Vizuelno\obj\Debug\Zadaca_Vizuelno.Form1.resources
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Zadaca Vizuelno\obj\Debug\Zadaca_Vizuelno.Resources.resources
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Zadaca Vizuelno\obj\Debug\Zadaca Vizuelno.vbproj.GenerateResource.cache
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Zadaca Vizuelno\obj\Debug\Zadaca Vizuelno.vbproj.CoreCompileInputs.cache
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Zadaca Vizuelno\obj\Debug\Zadaca Vizuelno.exe
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Zadaca Vizuelno\obj\Debug\Zadaca Vizuelno.xml
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Zadaca Vizuelno\obj\Debug\Zadaca Vizuelno.pdb
