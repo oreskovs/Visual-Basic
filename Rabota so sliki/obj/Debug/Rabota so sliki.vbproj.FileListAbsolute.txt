@@ -1,0 +1,12 @@
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Rabota so sliki\bin\Debug\Rabota so sliki.exe.config
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Rabota so sliki\bin\Debug\Rabota so sliki.exe
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Rabota so sliki\bin\Debug\Rabota so sliki.pdb
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Rabota so sliki\bin\Debug\Rabota so sliki.xml
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Rabota so sliki\obj\Debug\Rabota so sliki.vbproj.AssemblyReference.cache
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Rabota so sliki\obj\Debug\Rabota_so_sliki.Form1.resources
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Rabota so sliki\obj\Debug\Rabota_so_sliki.Resources.resources
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Rabota so sliki\obj\Debug\Rabota so sliki.vbproj.GenerateResource.cache
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Rabota so sliki\obj\Debug\Rabota so sliki.vbproj.CoreCompileInputs.cache
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Rabota so sliki\obj\Debug\Rabota so sliki.exe
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Rabota so sliki\obj\Debug\Rabota so sliki.xml
+C:\Users\Stojance Oreskov\Desktop\Vizuelno Programiranje Proekti\Rabota so sliki\obj\Debug\Rabota so sliki.pdb
